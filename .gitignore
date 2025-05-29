@@ -54,3 +54,4 @@ pmlogs/
 *.pm2.log
 .env
 .env
+node_modules/
