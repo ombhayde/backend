@@ -53,3 +53,4 @@ jest-test-results.json
 pmlogs/
 *.pm2.log
 .env
+.env
